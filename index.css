@@ -80,7 +80,7 @@ a {
 }
 
 .container .subscription {
-    width: 50%;
+    width: 100%;
     color: var(--clr-white);
     background-color: var(--clr-dark-cyan);
 }
